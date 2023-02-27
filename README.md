@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
   <br />
   <a href="https://github.com/KastenMonster">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KastenMonster&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KastenMonster&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KastenMonster&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KastenMonster&layout=compact&langs_count=8&theme=algolia"/>
 </a>
